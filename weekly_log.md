@@ -7,3 +7,5 @@
 ## Log
 - **10/12** 『모두의 알고리즘 with 파이썬』 Every week, we plan to do pair-programming with 2 Questions from the book(absent : 동석).
 - **10/16** First Pair-programming(Question 1,2,3,14) / next Question : 4,5,6
+- **11/09** 둘째마당 - 재귀호출
+- **11/11** 둘째마당 - 재귀호출 / Next ThursDay OFF
