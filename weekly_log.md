@@ -9,6 +9,8 @@
   - 스터디 방식 변경 : 각자 코딩 - 누가누가 빨리 푸나 100원 내기 콘테스트 
   - 인터넷 검색 안됨
   - 20분동안 풀고 못풀면 책보기
+  - Jupyter notebook 단축키 확인
+  - GitHub 설정해오기
 
 - **10/12** 『모두의 알고리즘 with 파이썬』 Every week, we plan to do pair-programming with 2 Questions from the book(absent : 동석).
 - **10/16** First Pair-programming(Question 1,2,3,14) / next Question : 4,5,6
