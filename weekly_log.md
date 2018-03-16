@@ -17,6 +17,11 @@
   - [Google flight](https://www.google.com/flights/)
 
 ## Log
+- **03/17**
+  - python 예외처리 공부하기 - HeadFirst Python(개정판 2017)
+  - 정규표현식 좋은 자료 찾기
+- **03/10**
+  - ch03.1 ~ 03.2
 - **03/03**
   - 파이썬으로 웹 크롤러 만들기 chap 02 고급 HTML 분석
 - **01/18**
