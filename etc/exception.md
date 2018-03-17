@@ -66,3 +66,8 @@ try:
 except MyError as e:
     print(e)
 ```
+Output
+```
+2.0
+0으로 나누기 불가함
+```
