@@ -10,3 +10,4 @@
 - shift + enter : 실행
 - shifr + tab : 함수/객체 정보 조회 / '' + ? : '?' 붙이면 내부 정보 
 - '' + ?? : '??' 붙이면 example source 출력
+- i, i 실행중지
