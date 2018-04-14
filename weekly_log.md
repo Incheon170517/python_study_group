@@ -19,11 +19,14 @@
 - 어떤 항공사가 연착이 덜 될까? - 악명높은 00항공은 정말로 연착이 심할까?
 
 ## Log
-- **03/31**
-- [ ] 정규표현식 좋은 자료 찾기
-- [ ] python 예외처리 - HeadFirst Python(2016) excercise   
-- [ ] 3/21 오늘의 코드 궁금한 부분 (random) 정리해보기
-- [ ] 웹크롤러,스크래핑 추가 설명 필요
+- **04/28**
+- [ ] ch04.API 사용
+
+- **04/07, 04/14**
+- [x] 정규표현식 좋은 자료 찾기.   
+- [x] python 예외처리 - HeadFirst Python(2016) excercise     
+- [x] 3/21 오늘의 코드 궁금한 부분 (random) 정리해보기 [정리링크](python_study_group/etc/randomseed.md).  
+- [x] 웹크롤러,스크래핑 개념 추가 설명 [정리링크](python_study_group/etc/web_scraping_web_crawler.md).   
 
 - **03/24**
 - [x] 파이썬으로 웹 크롤러 만들기 ch.03.3~
